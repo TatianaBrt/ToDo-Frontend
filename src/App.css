@@ -1,0 +1,40 @@
+body {
+  background: url(todo.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  }
+
+input {
+  display: block;
+  width: 90%;
+  border: none;
+  color:azure;
+  font-size: 20px;
+  background:#82D4FB;
+  padding: 20px;
+  font-family: 'Cormorant Infant', serif;
+  margin-bottom: 20px;
+  }
+
+  button {
+    padding: 20px 50px 20px 70px;
+    background-color: #EC7163;
+    color: white;
+    font-size: 20px;
+    font-family: 'Cormorant Infant', serif;
+    cursor: pointer;
+    border: none;
+  
+     }
+     p {
+      max-width: 100%;
+      background: #AF7AC5;
+      margin-top: 20px;
+      font-family: 'Cormorant Infant', serif;
+      width: 400px;
+      font-size: 20px;
+      color:antiquewhite;
+      
+      }
